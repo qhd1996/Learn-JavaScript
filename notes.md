@@ -10,6 +10,10 @@ In Javascript we use *.length* to know how many characters are in string.
 Three equal signs tests if the variable country has both the correct value and also the correct type.  
 **6.Index**  
 The first index in an array is 0.  
+**7.Higher Order Functions**  
+Higher order functions are functions that manipulate other functions. For example, a function can take other functions as arguments and/or produce a function as its return value. Such *fancy* functional techniques are powerful constructs available to you in JavaScript and other
+high-level languages like python, lisp, etc.  
+
 
 
  .

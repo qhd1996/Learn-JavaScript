@@ -8,6 +8,9 @@ You can define strings in JavaScript by enclosing the text in single quotes or d
 In Javascript we use *.length* to know how many characters are in string.  
 **5.===**  
 Three equal signs tests if the variable country has both the correct value and also the correct type.  
+**6.Index**  
+The first index in an array is 0.  
+
 
  .
 

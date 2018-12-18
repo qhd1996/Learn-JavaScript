@@ -16,9 +16,10 @@ high-level languages like python, lisp, etc.
 **8.Objects**  
 In JavaScript objects contain *propertyName : propertyValue* pairs.  
 **9.Properities**  
-Object's property is a *propertyName : propertyValue* pair, where **property name can be only a string**.If it's not a string, it gets casted into a string.   
-You can specify properties when creating an object or later.  
-Both *var['propertyName']* and *var.propertyName* are allowed to **get** a property's value.  
+(1)Object's property is a *propertyName : propertyValue* pair, where **property name can be only a string**.If it's not a string, it gets casted into a string.   
+(2)You can specify properties when creating an object or later.  
+(3)Both *var['propertyName']* and *var.propertyName* are allowed to **get** a property's value.  
+(4)Property can be added or changed.  
 
 
 

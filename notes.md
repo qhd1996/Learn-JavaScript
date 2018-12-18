@@ -13,6 +13,14 @@ The first index in an array is 0.
 **7.Higher Order Functions**  
 Higher order functions are functions that manipulate other functions. For example, a function can take other functions as arguments and/or produce a function as its return value. Such *fancy* functional techniques are powerful constructs available to you in JavaScript and other
 high-level languages like python, lisp, etc.  
+**8.Objects**  
+In JavaScript objects contain *propertyName : propertyValue* pairs.  
+**9.Properities**  
+Object's property is a *propertyName : propertyValue* pair, where **property name can be only a string**.If it's not a string, it gets casted into a string.   
+You can specify properties when creating an object or later.  
+Both *var['propertyName']* and *var.propertyName* are allowed to **get** a property's value.  
+
+
 
 
 

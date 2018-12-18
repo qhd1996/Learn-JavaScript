@@ -7,7 +7,7 @@ You can define strings in JavaScript by enclosing the text in single quotes or d
 **4.Length**  
 In Javascript we use *.length* to know how many characters are in string.  
 **5.===**  
-Threeequal signs tests if the variable country has both the correct value and also the correct type.  
+Three equal signs tests if the variable country has both the correct value and also the correct type.  
 
  .
 

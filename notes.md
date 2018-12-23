@@ -24,7 +24,15 @@ In JavaScript objects contain *propertyName : propertyValue* pairs.
 （1）Three are two types of scope:
 * Local scope
 * Global scope
-
+JavaScript has function scope: Each function creates a new scope.  
+* Local JavaScript Variables  
+Variables declared within a JavaScript function, become **LOCAL** to the function.  
+Local variables have Function scope: They can only be accessed from within the function.  
+* Global JavaScript Variables  
+A variable declared outside a function, becomes **GLOBAL**.  
+A global variable has global scope: All scripts and functions on a web page can access it.   
+(2)Automatically Global  
+If you assign a value to a variable that has not been declared, it will automatically become a **GLOBAL** variable.  
 
 
 

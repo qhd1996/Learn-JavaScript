@@ -20,6 +20,10 @@ In JavaScript objects contain *propertyName : propertyValue* pairs.
 (2)You can specify properties when creating an object or later.  
 (3)Both *var['propertyName']* and *var.propertyName* are allowed to **get** a property's value.  
 (4)Property can be added or changed.  
+**10.JavaScript Scope**  
+（1）Three are two types of scope:
+* Local scope
+* Global scope
 
 
 

@@ -34,7 +34,7 @@ A variable declared outside a function, becomes **GLOBAL**.
 A global variable has global scope: All scripts and functions on a web page can access it.   
 (2)Automatically Global  
 If you assign a value to a variable that has not been declared, it will automatically become a **GLOBAL** variable.  
-**13：Boolean***  
+**13.Boolean** 
 !: 
 If the operand is **null**, the return value is **true**.  
 If the operand is **NaN**, the return value is **true**.  

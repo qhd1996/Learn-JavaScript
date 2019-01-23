@@ -47,6 +47,8 @@ If the operand is **undefined**, the return value is **undefined**. This will ca
 If the operand is **null**, the return value is **null**.        
 If the operand is **NaN**, the return value is **NaN**.      
 If the operand is **undefined**, the return value is **undefined**. This will cause an error.  
+**14.with**  
+Use of the with statement is not recommended, as it may be the source of confusing bugs and compatibility issues. The with statement extends the scope chain for a statement.  
 
 
 

@@ -49,6 +49,9 @@ If the operand is **NaN**, the return value is **NaN**.
 If the operand is **undefined**, the return value is **undefined**. This will cause an error.  
 **14.with**  
 Use of the with statement is not recommended, as it may be the source of confusing bugs and compatibility issues. The with statement extends the scope chain for a statement.  
+**15.eval()**  
+The eval() function evaluates JavaScript code represented as a string.  
+
 
 
 

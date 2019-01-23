@@ -38,7 +38,16 @@ If you assign a value to a variable that has not been declared, it will automati
 !: 
 If the operand is **null**, the return value is **true**.  
 If the operand is **NaN**, the return value is **true**.  
-If the operand is **undefined**, the return value is **true**.  
+If the operand is **undefined**, the return value is **true**.   
+&:
+If the operand is **null**, the return value is **null**.      
+If the operand is **NaN**, the return value is **NaN**.    
+If the operand is **undefined**, the return value is **undefined**. This will cause an error.  
+&:  
+If the operand is **null**, the return value is **null**.        
+If the operand is **NaN**, the return value is **NaN**.      
+If the operand is **undefined**, the return value is **undefined**. This will cause an error.  
+
 
 
 
